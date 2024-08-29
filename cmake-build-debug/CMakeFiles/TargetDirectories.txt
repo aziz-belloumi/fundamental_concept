@@ -1,0 +1,3 @@
+C:/Users/bello/OneDrive/Desktop/c++/fundamental concepts/cmake-build-debug/CMakeFiles/fundamental_concepts.dir
+C:/Users/bello/OneDrive/Desktop/c++/fundamental concepts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bello/OneDrive/Desktop/c++/fundamental concepts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
