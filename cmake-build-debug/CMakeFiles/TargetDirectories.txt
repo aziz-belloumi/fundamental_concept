@@ -1,0 +1,3 @@
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/swap numbers/cmake-build-debug/CMakeFiles/swap_numbers.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/swap numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/swap numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
