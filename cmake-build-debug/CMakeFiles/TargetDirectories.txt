@@ -1,0 +1,3 @@
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/linear search/cmake-build-debug/CMakeFiles/linear_search.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/linear search/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/linear search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
