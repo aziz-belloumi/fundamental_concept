@@ -1,0 +1,3 @@
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/vowl number/cmake-build-debug/CMakeFiles/vowl_number.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/vowl number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/vowl number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
