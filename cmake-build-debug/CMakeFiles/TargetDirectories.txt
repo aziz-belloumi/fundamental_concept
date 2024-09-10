@@ -1,0 +1,3 @@
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/matrix multiplication/cmake-build-debug/CMakeFiles/matrix_multiplication.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/matrix multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/matrix multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
