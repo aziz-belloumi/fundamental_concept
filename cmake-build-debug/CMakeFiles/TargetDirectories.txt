@@ -1,0 +1,3 @@
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/reverse string/cmake-build-debug/CMakeFiles/reverse_string.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/reverse string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bello/OneDrive/Desktop/fundamental codes in c++/reverse string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
